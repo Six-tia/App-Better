@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Better</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Focus activity -->
+    <string name="daily_stats">Today</string>
+    <string name="yesterday_stats">Yesterday</string>
+    <string name="weekly_stats">Week</string>
+    <string name="monthly_stats">Month</string>
+    <string name="no_data">No data</string>
+    <string name="network_stats">Network Stats</string>
+    <string name="networks_stats_na">No network data available</string>
+    <string name="refresh">Refresh</string>
+    <string name="refreshstep">RefreshStep</string>
+
+    <!-- Plan activity -->
+    <string name="year_month_day_numberic">%d/%02d/%02d</string>
+    <string name="year_and_month">%d.%02d</string>
+    <string name="year_month_day">%d.%02d.%02d</string>
+    <string name="month_and_day">%02d %02d </string>
+    <string name="empty_item_text">No schedule</string>
+    <string name="date_item_header">My List(%s):</string>
+    <string name="before_day_num">%d days before</string>
+    <string name="after_day_num">%d days after</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="before_yesterday">The day_before_yesterday</string>
+    <string name="tomorrow">tomorrow</string>
+    <string name="after_tomorrow">The day_after_tomorrow</string>
+    <string name="home">Set Your Plan</string>
+    <string name="calendar">Calendar</string>
+    <string name="hour_minute">%02d:%02d</string>
+    <string name="graph">Graph</string>
+    <string name="graph_good">Good:%d%%</string>
+    <string name="graph_ordinary">Ordinary:%d%%</string>
+    <string name="graph_bad">Bad:%d%%</string>
+    <string name="graph_notwell">NotWell:%d%%</string>
+    <string name="graph_no_record">No_record:%d%%</string>
+    <string name="graph_max_length_text">No_record:100%</string>
+    <string name="graph_evaluation0">---Statistics---%n%d days in this month, %d days are recorded, %d days are not recorded.%n</string>
+    <string name="graph_evaluation1">%d days are evaluated as good;%n</string>
+    <string name="graph_evaluation2">%d days are evaluated as ordinary;%n</string>
+    <string name="graph_evaluation3">%d days are evaluated as bad.%n</string>
+    <string name="graph_evaluation4">%d days are evaluated as not well;%n</string>
+    <string name="graph_standard">---Standards---\nIn the "plan-to-do-things" in that day, the Completion Rate greater than 90% is evaluated as good, between 60% and 90% as ordinary,
+        between 30% and 60% as not well, lower than 30% as bad.</string>
+</resources>
